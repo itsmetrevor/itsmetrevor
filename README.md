@@ -1,5 +1,9 @@
 ## Hi there 👋
+It's me, Trevor.
 
+**WIP**  
+After the Microsoft aquisition, all my personal projects were pulled and this became a place to sometimes throw configs. Github profile is under ongoing reconstruction.
+ 
 <!--
 **itsmetrevor/itsmetrevor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
