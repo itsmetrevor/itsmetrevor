@@ -1,5 +1,7 @@
 ## Hi there 👋
 It's me, Trevor.
+
+I may or may not have deleted a bunch of repos when Microsoft acquired Github; I'm slowly rebuilding my profile.
  
 <!--
 **itsmetrevor/itsmetrevor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
